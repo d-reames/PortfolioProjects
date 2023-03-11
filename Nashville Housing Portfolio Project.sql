@@ -1,3 +1,8 @@
+/*
+Nashville Housing Data Cleaning 
+Skills used: Self Joins, CTE's, Windows Functions, Aggregate Functions, Converting Data Types
+*/
+
 SELECT * 
 FROM PortfolioProject..NashvilleHousing
 
